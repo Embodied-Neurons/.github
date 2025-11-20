@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 Come see our Wiki ->
-
 https://github.com/Embodied-Neurons/whiteboard/wiki/
+
+Join our RL Reading Group on Discord, if you like ->
+https://discord.gg/QaH3QMTgV8
 
 <!--
 
