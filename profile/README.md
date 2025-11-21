@@ -6,6 +6,9 @@ https://github.com/Embodied-Neurons/whiteboard/wiki/
 Join our RL Reading Group on Discord, if you like ->
 https://discord.gg/QaH3QMTgV8
 
+List of diploma topics and open problems ->
+https://docs.google.com/spreadsheets/d/1VGDahDbN_Bx7OU1yO155bJc36OogWbEjqAX0NSlHtik/edit?gid=1017747023#gid=1017747023
+
 <!--
 
 **Here are some ideas to get you started:**
